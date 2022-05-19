@@ -17,7 +17,7 @@ Our aim is to train & deploy a model that can suggest which crops to grow in a s
 
 # C. Background
 
-<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/the_economist_food_safety.jpg" width=50% height=50%>
+<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/the_economist_food_safety.jpg">
 
 
 # D. Key Objectives / Research Questions
