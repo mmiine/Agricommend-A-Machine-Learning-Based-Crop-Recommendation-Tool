@@ -54,12 +54,23 @@ A copy of the full report can be found in this repository under name **"GRFC_202
 
 # Key Objectives / Research Questions
 
+- Can we increase agricultural efficiency by utilizing machine learning models?
+- Can we help the farmers in low income areas by recommending them what crops to plant?
+
 
 # Work Arrangement
 Ece & Meryem: Finding Datasets
+
 Nazif: Writing github document
 
+
 # Approach To Work
+
+1. Finding datasets with preferred features
+2. Perform exploratory data analysis to see any trends in data
+3. Figuring out which model / models to use
+4. Implementing different models & assessing their performances
+
 
 
 # Tentative Agenda
@@ -69,6 +80,7 @@ Nazif: Writing github document
 June & July 2022: Implementing the algorithm and getting results
 
 Late July 2022: Deploying the model on a webapp
+
 
 
 # Deliverables
