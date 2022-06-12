@@ -2,7 +2,7 @@
  Samsung Innovation Campus Project
  
  
- <img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/E_GIF_02.gif" width=50% height=50%>
+ <img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/E_GIF_02.gif" width=30% height=30%>
  
  [More information about SDG #2](https://sdgs.un.org/goals/goal2)
 
