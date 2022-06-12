@@ -33,19 +33,19 @@ Global Network Against Food Crises (GNAFC) is a humanitarian alliance, founded b
 
 The following images, taken directly from the report, presents the situation in a more digestable way.
 
-<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/tiers.png" width=50%>
+<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/tiers.png" width=30%>
 
-<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/pop_in_crisis.png" width=50%>
+<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/pop_in_crisis.png" width=30%>
  
-<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/pop_in_catastrophe.png" width=50%>
+<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/pop_in_catastrophe.png" width=30%>
  
-<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/ten_countries.png" width=50%>
+<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/ten_countries.png" width=30%>
 
-<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/drivers_detailed.png" width=50%>
+<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/drivers_detailed.png" width=30%>
 
-<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/drivers.png" width=50%>
+<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/drivers.png" width=30%>
  
-<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/2022_forecast.png" width=50%>
+<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/2022_forecast.png" width=30%>
 
  
 A copy of the full report can be found in this repository under name **"GRFC_2022.pdf"**. We must note that this report published by GNAFC predates the Russian invasion of Ukraine, so its dire effects on global food insecurity is not present in the data yet.
