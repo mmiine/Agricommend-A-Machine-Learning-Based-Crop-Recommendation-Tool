@@ -52,14 +52,14 @@ def Classification(model_name, data):
 # Save working directory
 cd = os.path.dirname(os.path.abspath(__file__))
 # Read dataset with pandas
-df = pd.read_csv(os.path.join(cd, 'Dataset/Crop_recommendation.csv'))
+df = pd.read_csv(os.path.join(cd, '../dataset/Crop_recommendation.csv'))
 
 features = df[['N', 'P', 'K', 'temperature', 'humidity', 'ph', 'rainfall']]
 target = df['label']
 labels = df['label']
 
 sns.heatmap(df.corr(), annot=True)
-plt.savefig(os.path.join(cd,"HeatmapData.png"))
+plt.savefig(os.path.join(cd, "HeatmapData.png"))
 
 # Initializing empty lists to append all model's name and corresponding name
 acc = []
@@ -87,7 +87,7 @@ for m in models:
     # save classifier with pickle
     pkl_filename = f'models/{m}.pkl'
     # Adds working directory before file name: turns into absolute path for Permission Errors
-    Model_pkl = open(os.path.join(cd, pkl_filename), 'wb')
+    Model_pkl = open(os.path.join(cd+'/../', pkl_filename), 'wb')
     pickle.dump(class_model, Model_pkl)
     Model_pkl.close()
 
@@ -96,7 +96,7 @@ plt.title('Accuracy Comparison')
 plt.xlabel('Accuracy')
 plt.ylabel('Algorithm')
 sns.barplot(x=acc, y=model, palette='dark')
-plt.savefig(os.path.join(cd,"ComparisonClassificationModels.png"))
+plt.savefig(os.path.join(cd, "ComparisonClassificationModels.png"))
 
 accuracy_models = dict(zip(model, acc))
 for k, v in accuracy_models.items():
