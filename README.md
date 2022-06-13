@@ -16,7 +16,7 @@ Mehmed Nazif Taşbaş - **@tasbasmn**
 Meryem Mine Gündoğan - **@mmiine**
 
 
-## Technical Details
+## Sponsors
 
 
 
