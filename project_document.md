@@ -35,7 +35,7 @@ Global Network Against Food Crises (GNAFC) is a humanitarian alliance, founded b
 <img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/pop_in_crisis.png">
 
 
-- Among those 39 regions,Democratic Republic of the Congo has the most population experiencing crisis, followed by Afghanistan and Ethiopia.
+- Among those 39 regions, Democratic Republic of the Congo has the most population experiencing crisis, followed by Afghanistan and Ethiopia.
 
 <img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/ten_countries.png">
 
@@ -88,6 +88,7 @@ A copy of the full report can be found in this repository under name **"GRFC_202
 
 # Work Arrangement
 ~Ece & Meryem: Finding Datasets~
+
 ~Nazif: Writing github document~
 
 Preparing project demo presentation
@@ -99,6 +100,7 @@ Preparing Html website
 Google Maps integration
 
 Model deploy and integrate into website
+
 
 # Approach To Work
 
