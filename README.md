@@ -1,6 +1,6 @@
  # Agricommend: A Machine Learning Based Crop Recommendation Tool
  
- <img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/SIC.jpg" width=50% height=50%>
+
 
 
 ## Project Overview
@@ -16,8 +16,10 @@ Mehmed Nazif Taşbaş - **@tasbasmn**
 Meryem Mine Gündoğan - **@mmiine**
 
 
-## Dependencies
+## Technical Details
 
 
 
+
+<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/banner.png">
 
